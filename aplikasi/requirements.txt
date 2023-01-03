@@ -1,6 +1,6 @@
 numpy
 streamlit
 pandas
-opencv-contrib-python-headless
+opencv-python
 pillow
 pip==22.3.1
