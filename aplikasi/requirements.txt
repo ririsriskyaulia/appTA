@@ -1,6 +1,6 @@
 numpy
 streamlit
 pandas
-opencv-python
+opencv-python==cv2.__version__
 pillow
 pip==22.3.1
