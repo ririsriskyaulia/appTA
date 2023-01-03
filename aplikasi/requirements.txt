@@ -1,0 +1,5 @@
+numpy
+streamlit
+pandas
+cv2
+pillow
